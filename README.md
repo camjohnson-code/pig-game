@@ -22,7 +22,7 @@ This is a fun "Pig Game" built using HTML, CSS, and JavaScript. The objective of
 
 ## Demo
 
-![Guess the number game](https://media.giphy.com/media/JGhwnH1WAgQXCESnYW/giphy.gif)
+![Guess the number game](https://media.giphy.com/media/KGfPabPonwEWI6UyKE/giphy.gif)
 
 ## Tech Stack
 
